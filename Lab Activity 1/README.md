@@ -1,10 +1,10 @@
-Laboratory Activity 1
+**Laboratory Activity 1**
 
 Objectives:
 
-To implement digital signals in a Arduino circuit.
+1. To implement digital signals in a Arduino circuit.
 
-To create a sequential LED lighting system where LEDs turn on and off in a specific order. The system can be modified to control odd or even-numbered LEDs separately.
+2. To create a sequential LED lighting system where LEDs turn on and off in a specific order. The system can be modified to control odd or even-numbered LEDs separately.
 
 Description:
 
@@ -12,7 +12,7 @@ In this activity, we created an Arduino circuit consisting of five LEDs with res
 
 The key components of the code that you need to understand are the following:
 
-LED Pins (ledPins[]): An array specifying the pins connected to the LEDs.
-Number of LEDs (numLeds): The total count of LEDs in the setup.
-Setup: Configures each LED pin as an output.
-Loop: Manages the sequence of turning the LEDs on and off.
+* LED Pins (ledPins[]): An array specifying the pins connected to the LEDs.
+* Number of LEDs (numLeds): The total count of LEDs in the setup.
+* Setup: Configures each LED pin as an output.
+* Loop: Manages the sequence of turning the LEDs on and off.
