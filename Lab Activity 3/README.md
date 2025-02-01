@@ -1,4 +1,4 @@
-Laboratory Activity 3
+**Laboratory Activity 3**
 
 Objectives:
 
