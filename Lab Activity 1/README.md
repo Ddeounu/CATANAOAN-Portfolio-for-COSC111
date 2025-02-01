@@ -1,4 +1,5 @@
 Laboratory Activity 1
+
 Objectives:
 
 To implement digital signals in a Arduino circuit.
