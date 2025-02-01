@@ -1,9 +1,10 @@
-Labaratory Activity 2
+**Labaratory Activity 2**
 
 Objectives:
 
-Discuss analog signals and its implementation in a Arduino circuit.
-Understand analog to digital signal conversion using the map() function.
+1. Discuss analog signals and its implementation in a Arduino circuit.
+2. Understand analog to digital signal conversion using the map() function.
+
 The objective of this project is to create a running light effect using multiple LEDs. The LEDs will gradually increase in brightness and then turn off one by one, creating a smooth transition effect.
 
 Description:
